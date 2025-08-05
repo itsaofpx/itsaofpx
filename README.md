@@ -1,6 +1,6 @@
 # 💫 About Me
 "I am a dedicated software developer with a relentless work ethic, driven by my passion for achieving my dreams. 
-Currently, I am a 3rd Computer Science student at Kasetsart University."
+Currently, I am a 4th Computer Science student at Kasetsart University."
 
 
 ## 🌐 Socials:
